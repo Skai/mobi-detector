@@ -1,0 +1,1 @@
+JS Mobile Device Detector.
